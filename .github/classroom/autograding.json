@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Demo",
+      "setup": "",
+      "run": "mvn test -Dtest=ExampleTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    }
+  ]
+}
